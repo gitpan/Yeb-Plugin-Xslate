@@ -3,7 +3,7 @@ BEGIN {
   $Yeb::Plugin::Xslate::AUTHORITY = 'cpan:GETTY';
 }
 # ABSTRACT: Yeb Plugin for Text::Xslate
-$Yeb::Plugin::Xslate::VERSION = '0.001';
+$Yeb::Plugin::Xslate::VERSION = '0.100';
 use Moo;
 use Carp;
 use Text::Xslate;
@@ -146,7 +146,7 @@ Yeb::Plugin::Xslate - Yeb Plugin for Text::Xslate
 
 =head1 VERSION
 
-version 0.001
+version 0.100
 
 =head1 SYNOPSIS
 

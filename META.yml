@@ -21,7 +21,7 @@ requires:
 resources:
   homepage: https://github.com/Getty/p5-yeb-plugin-xslate
   repository: https://github.com/Getty/p5-yeb-plugin-xslate.git
-version: '0.001'
+version: '0.100'
 x_Dist_Zilla:
   perl:
     version: '5.018002'
